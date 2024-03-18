@@ -19,3 +19,9 @@ Due: 14 Apr (15 Apr by 23:59)
 
 
 ## Assignment 3 (individually)
+
+```sh
+git add .
+git commit -m "<commit msg>"
+git push
+```
