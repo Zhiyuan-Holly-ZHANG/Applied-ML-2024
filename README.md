@@ -20,12 +20,34 @@ Due: 14 Apr (15 Apr by 23:59)
 
 ## Assignment 3 (individually)
 
+
+---
+
+
+# Git commands
+
+
+## 克隆远程仓库到本地
+```sh
+git clone <remote repo url>
+```
+
+## 本地仓库与远程仓库同步
+```sh
+git pull
+```
+
+## 本地仓库上传到远程仓库
 ```sh
 git add .
 git commit -m "<commit msg>"
 git push
 ```
 
+## 忽视本地所做的任何修改
 ```shell
 git stash
 ```
+
+## 中文 文字版教程
+https://www.cnblogs.com/kangssssh/p/17173029.html
