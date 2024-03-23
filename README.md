@@ -1,7 +1,7 @@
 # 2024
 
 ## Assignment 1 -- 10'
-Due: 24 Mar (25 Mar by 23:59)	
+Due: 26 Mar (27 Mar by 23:59)	
 
 ### To submit: a Jupyter notebook (both in .ipynb and in .html) 
 
